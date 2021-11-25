@@ -1,0 +1,1 @@
+/usr/bin/c++ -lGL -lGLEW -lglfw CMakeFiles/gltemplate.dir/src/main.cpp.o CMakeFiles/gltemplate.dir/glad/glad.c.o -o gltemplate 

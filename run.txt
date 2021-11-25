@@ -1,0 +1,7 @@
+from build folder 
+run cmake ..
+
+2- from build folder
+run make
+
+creates a executable in the build folder after successful make command

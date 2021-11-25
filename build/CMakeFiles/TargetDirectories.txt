@@ -1,0 +1,3 @@
+/home/z3ro/workspace/gl-glfw/build/CMakeFiles/rebuild_cache.dir
+/home/z3ro/workspace/gl-glfw/build/CMakeFiles/edit_cache.dir
+/home/z3ro/workspace/gl-glfw/build/CMakeFiles/hello-Glfw.dir
